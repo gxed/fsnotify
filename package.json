@@ -19,6 +19,6 @@
   "language": "go",
   "license": "BSD-new",
   "name": "fsnotify",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
 
